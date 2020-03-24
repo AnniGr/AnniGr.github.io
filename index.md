@@ -8,7 +8,7 @@
 <img src ="images/bild.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/presentation- inbyggd elektronik.pdf)
+[Project 2 Title]()
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
