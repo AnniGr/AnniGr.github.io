@@ -5,7 +5,7 @@
 ### Project in Embedded Systems.  
 
 [Arduino project](/sample_page)
-<img src = "bild.png"/>
+<img src ="bild.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
