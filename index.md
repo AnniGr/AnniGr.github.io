@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Project in Embedded Systems.  
 
-[Project 1 Title](/sample_page)
+[Arduino project](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
