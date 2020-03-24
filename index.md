@@ -4,7 +4,7 @@
 
 ### Project in Embedded Systems.  
 
-[Arduino project](/sample_page)
+[Arduino project](/pdf/presentation- inbyggd elektronik.pdf)
 <img src ="images/bild.png?raw=true"/>
 
 ---
