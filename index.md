@@ -7,7 +7,7 @@
 [Arduino project](/pdf/presentation- inbyggd elektronik.pdf)
 <img src ="images/bild.png?raw=true"/>
 
-This project was executed in 2019 with Maha Kloub. We made a circuit where we used a button as input and an LED as output.
+This project was executed year 2019 during two weeks with Maha Kloub. We made a circuit where we used a button as input and an LED as output.
 ---
 [Project 2 Title]()
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
