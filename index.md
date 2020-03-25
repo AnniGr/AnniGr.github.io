@@ -10,7 +10,7 @@
 <p> This project was executed year 2019 during two weeks with Maha Kloub. We made a circuit where we used a button as input and an LED as output. </p>
 
 ---
-[Project in Modern Software Development (ongoing)](/)
+[Project in Modern Software Development (ongoing)]
 <img src="images/Skärmavbild 2020-03-25 kl. 22.05.09.png?raw=true"/>
 
 <p>I am at the moment reading a course in Modern Software Development. Me and four other people are developing a website for an Italian Restaurant. </p>
