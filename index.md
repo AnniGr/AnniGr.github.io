@@ -11,12 +11,9 @@
 
 ---
 [Project in Modern Software Development (ongoing)](/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="Skärmavbild 2020-03-25 kl. 22.05.09.png?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<p>I am at the moment reading a course in Modern Software Development. Me and four other people are developing a website for an Italian Restaurant. </p>
 ---
 
 
