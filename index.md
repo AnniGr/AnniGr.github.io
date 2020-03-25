@@ -11,7 +11,8 @@
 
 ---
 [Project in Modern Software Development (ongoing)]
-<img src="images/Skärmavbild 2020-03-25 kl. 22.05.09.png?raw=true"/>
+<img src="images/bild2.png?raw=true"/>
+<img src="images/bild3.png?raw=true"/>
 
 <p>I am at the moment reading a course in Modern Software Development. Me and four other people are developing a website for an Italian Restaurant. </p>
 ---
