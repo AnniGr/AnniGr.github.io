@@ -15,7 +15,7 @@
 <img src="images/bild2.png?raw=true"/>
 <img src="images/bild3.png?raw=true"/>
 
-<p> I am reading a course in Modern Software Development and at the moment me and four other people are developing a website for an Italian Restaurant. </p>
+<p> I am reading a course in Modern Software Development and at the moment me and four other people are developing a website for an Italian restaurant. </p>
 
 
 
